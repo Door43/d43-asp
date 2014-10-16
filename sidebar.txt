@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[asp:home|Door43 (asp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-asp|d43-asp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-asp/archive/master.zip|d43-asp.zip]]
+
+**Recent Changes**
+{{changes>ns = asp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/asp|Ethnologue data]]
+
